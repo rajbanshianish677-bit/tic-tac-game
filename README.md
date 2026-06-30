@@ -5,6 +5,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/rajbanshianish677-bit/tic-tac-game)](https://github.com/rajbanshianish677-bit/tic-tac-game)
 
 A responsive Tic-Tac-Toe game built using **HTML5**, **CSS3**, and **Vanilla JavaScript**. 
+ https://github.com/bisug
 
 [🚀 Live Demo](https://rajbanshianish677-bit.github.io/tic-tac-game/)
 
